@@ -8,6 +8,7 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 | 2026-04-30 | Perşembe | Gayrimenkul Ofisleri | [gayrimenkul/2026-04-30.md](gayrimenkul/2026-04-30.md) |
 | 2026-04-29 | Çarşamba | İnşaat Firmaları | [insaat/2026-04-29.md](insaat/2026-04-29.md) |
 | 2026-04-28 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-04-28.md](mimarlik-ic-mimarlik/2026-04-28.md) |
+| 2026-05-01 | Cuma | Psikolog ve Danışmanlık Ofisleri | [psikolog-danismanlik/2026-05-01.md](psikolog-danismanlik/2026-05-01.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
