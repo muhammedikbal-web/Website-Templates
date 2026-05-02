@@ -5,6 +5,7 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 ## Son Araştırmalar
 | Tarih | Gün | Sektör | Dosya |
 |-------|-----|--------|-------|
+| 2026-05-02 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-05-02.md](avukat-hukuk/2026-05-02.md) |
 | 2026-05-01 | Cuma | Psikolog ve Danışmanlık Ofisleri | [psikolog-danismanlik/2026-05-01.md](psikolog-danismanlik/2026-05-01.md) |
 | 2026-04-30 | Perşembe | Gayrimenkul Ofisleri | [gayrimenkul/2026-04-30.md](gayrimenkul/2026-04-30.md) |
 | 2026-04-29 | Çarşamba | İnşaat Firmaları | [insaat/2026-04-29.md](insaat/2026-04-29.md) |
