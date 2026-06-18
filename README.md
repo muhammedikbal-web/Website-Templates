@@ -10,6 +10,7 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 | 2026-06-15 | Pazartesi | Diyetisyen ve Güzellik Merkezleri | [diyetisyen-guzellik/2026-06-15.md](diyetisyen-guzellik/2026-06-15.md) |
 | 2026-06-16 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-06-16.md](mimarlik-ic-mimarlik/2026-06-16.md) |
 | 2026-06-17 | Çarşamba | İnşaat Firmaları | [insaat/2026-06-17.md](insaat/2026-06-17.md) |
+| 2026-06-18 | Perşembe | Gayrimenkul Ofisleri | [gayrimenkul/2026-06-18.md](gayrimenkul/2026-06-18.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
