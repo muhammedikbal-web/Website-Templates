@@ -12,6 +12,7 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 | 2026-06-20 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-06-20.md](avukat-hukuk/2026-06-20.md) |
 | 2026-07-02 | Perşembe | Gayrimenkul Ofisleri | [gayrimenkul/2026-07-02.md](gayrimenkul/2026-07-02.md) |
 | 2026-07-03 | Cuma | Psikolog ve Danışmanlık Ofisleri | [psikolog-danismanlik/2026-07-03.md](psikolog-danismanlik/2026-07-03.md) |
+| 2026-07-04 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-07-04.md](avukat-hukuk/2026-07-04.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
