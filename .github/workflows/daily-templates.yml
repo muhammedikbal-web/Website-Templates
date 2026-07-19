@@ -1,0 +1,48 @@
+name: Daily Website Templates Research
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # Her gün 08:00 UTC (Türkiye: 11:00)
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Backfill tarihi (YYYY-MM-DD). Boş bırakılırsa bugün çalışır.'
+        required: false
+        default: ''
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Anthropic SDK
+        run: pip install anthropic
+
+      - name: Run research script
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TARGET_DATE: ${{ github.event.inputs.target_date }}
+        run: python scripts/daily_research.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Commit edilecek değişiklik yok."
+          else
+            MSG=$(cat /tmp/commit_message.txt 2>/dev/null || echo "feat: daily website templates update")
+            git commit -m "$MSG"
+            git push
+          fi
