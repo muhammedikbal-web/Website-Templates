@@ -11,6 +11,7 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 | 2026-07-26 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-07-26.md](haftalik-en-iyi/2026-07-26.md) |
 | 2026-07-27 | Pazartesi | Diyetisyen ve Güzellik Merkezleri | [diyetisyen-guzellik/2026-07-27.md](diyetisyen-guzellik/2026-07-27.md) |
 | 2026-07-29 | Çarşamba | İnşaat Firmaları | [insaat/2026-07-29.md](insaat/2026-07-29.md) |
+| 2026-07-30 | Perşembe | Gayrimenkul Ofisleri | [gayrimenkul/2026-07-30.md](gayrimenkul/2026-07-30.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
