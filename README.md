@@ -6,12 +6,12 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 | Tarih | Gün | Sektör | Dosya |
 |-------|-----|--------|-------|
 | 2026-08-08 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-08-08.md](avukat-hukuk/2026-08-08.md) |
-| 2026-08-09 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-08-09.md](haftalik-en-iyi/2026-08-09.md) |
 | 2026-08-10 | Pazartesi | Diyetisyen ve Güzellik Merkezleri | [diyetisyen-guzellik/2026-08-10.md](diyetisyen-guzellik/2026-08-10.md) |
-| 2026-08-11 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-08-11.md](mimarlik-ic-mimarlik/2026-08-11.md) |
-| 2026-08-14 | Cuma | Psikolog ve Danışmanlık Ofisleri | [psikolog-danismanlik/2026-08-14.md](psikolog-danismanlik/2026-08-14.md) |
-| 2026-08-16 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-08-16.md](haftalik-en-iyi/2026-08-16.md) |
-| 2026-08-18 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-08-18.md](mimarlik-ic-mimarlik/2026-08-18.md) |
+| 2026-08-12 | Çarşamba | İnşaat Firmaları | [insaat/2026-08-12.md](insaat/2026-08-12.md) |
+| 2026-08-13 | Perşembe | Gayrimenkul Ofisleri | [gayrimenkul/2026-08-13.md](gayrimenkul/2026-08-13.md) |
+| 2026-08-15 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-08-15.md](avukat-hukuk/2026-08-15.md) |
+| 2026-08-17 | Pazartesi | Diyetisyen ve Güzellik Merkezleri | [diyetisyen-guzellik/2026-08-17.md](diyetisyen-guzellik/2026-08-17.md) |
+| 2026-08-19 | Çarşamba | İnşaat Firmaları | [insaat/2026-08-19.md](insaat/2026-08-19.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
