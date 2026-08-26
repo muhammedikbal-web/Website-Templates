@@ -5,13 +5,13 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 ## Son Araştırmalar
 | Tarih | Gün | Sektör | Dosya |
 |-------|-----|--------|-------|
-| 2026-08-12 | Çarşamba | İnşaat Firmaları | [insaat/2026-08-12.md](insaat/2026-08-12.md) |
 | 2026-08-13 | Perşembe | Gayrimenkul Ofisleri | [gayrimenkul/2026-08-13.md](gayrimenkul/2026-08-13.md) |
 | 2026-08-15 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-08-15.md](avukat-hukuk/2026-08-15.md) |
 | 2026-08-17 | Pazartesi | Diyetisyen ve Güzellik Merkezleri | [diyetisyen-guzellik/2026-08-17.md](diyetisyen-guzellik/2026-08-17.md) |
 | 2026-08-22 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-08-22.md](avukat-hukuk/2026-08-22.md) |
 | 2026-08-23 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-08-23.md](haftalik-en-iyi/2026-08-23.md) |
 | 2026-08-25 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-08-25.md](mimarlik-ic-mimarlik/2026-08-25.md) |
+| 2026-08-26 | Çarşamba | İnşaat Firmaları | [insaat/2026-08-26.md](insaat/2026-08-26.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
