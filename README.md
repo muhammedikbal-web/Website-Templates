@@ -5,13 +5,13 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 ## Son Araştırmalar
 | Tarih | Gün | Sektör | Dosya |
 |-------|-----|--------|-------|
-| 2026-08-26 | Çarşamba | İnşaat Firmaları | [insaat/2026-08-26.md](insaat/2026-08-26.md) |
-| 2026-08-27 | Perşembe | Gayrimenkul Ofisleri | [gayrimenkul/2026-08-27.md](gayrimenkul/2026-08-27.md) |
-| 2026-08-30 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-08-30.md](haftalik-en-iyi/2026-08-30.md) |
 | 2026-08-31 | Pazartesi | Diyetisyen ve Güzellik Merkezleri | [diyetisyen-guzellik/2026-08-31.md](diyetisyen-guzellik/2026-08-31.md) |
 | 2026-09-01 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-09-01.md](mimarlik-ic-mimarlik/2026-09-01.md) |
 | 2026-09-02 | Çarşamba | İnşaat Firmaları | [insaat/2026-09-02.md](insaat/2026-09-02.md) |
 | 2026-09-03 | Perşembe | Gayrimenkul Ofisleri | [gayrimenkul/2026-09-03.md](gayrimenkul/2026-09-03.md) |
+| 2026-09-04 | Cuma | Psikolog ve Danışmanlık Ofisleri | [psikolog-danismanlik/2026-09-04.md](psikolog-danismanlik/2026-09-04.md) |
+| 2026-09-05 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-09-05.md](avukat-hukuk/2026-09-05.md) |
+| 2026-09-06 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-09-06.md](haftalik-en-iyi/2026-09-06.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
