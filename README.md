@@ -5,7 +5,6 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 ## Son Araştırmalar
 | Tarih | Gün | Sektör | Dosya |
 |-------|-----|--------|-------|
-| 2026-09-26 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-09-26.md](avukat-hukuk/2026-09-26.md) |
 | 2026-09-27 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-09-27.md](haftalik-en-iyi/2026-09-27.md) |
 | 2026-09-28 | Pazartesi | Diyetisyen ve Güzellik Merkezleri | [diyetisyen-guzellik/2026-09-28.md](diyetisyen-guzellik/2026-09-28.md) |
 | 2026-09-29 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-09-29.md](mimarlik-ic-mimarlik/2026-09-29.md) |
