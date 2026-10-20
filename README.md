@@ -12,6 +12,7 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 | 2026-10-11 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-10-11.md](haftalik-en-iyi/2026-10-11.md) |
 | 2026-10-14 | Çarşamba | İnşaat Firmaları | [insaat/2026-10-14.md](insaat/2026-10-14.md) |
 | 2026-10-18 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-10-18.md](haftalik-en-iyi/2026-10-18.md) |
+| 2026-10-20 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-10-20.md](mimarlik-ic-mimarlik/2026-10-20.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
