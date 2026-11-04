@@ -11,6 +11,7 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 | 2026-10-27 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-10-27.md](mimarlik-ic-mimarlik/2026-10-27.md) |
 | 2026-10-28 | Çarşamba | İnşaat Firmaları | [insaat/2026-10-28.md](insaat/2026-10-28.md) |
 | 2026-10-31 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-10-31.md](avukat-hukuk/2026-10-31.md) |
+| 2026-11-04 | Çarşamba | İnşaat Firmaları | [insaat/2026-11-04.md](insaat/2026-11-04.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
