@@ -11,6 +11,7 @@ Sektöre göre haftalık animasyonlu website taslakları araştırma arşivi.
 | 2026-11-14 | Cumartesi | Avukat ve Hukuk Ofisleri | [avukat-hukuk/2026-11-14.md](avukat-hukuk/2026-11-14.md) |
 | 2026-11-15 | Pazar | Haftanın En Yıldızlı Website Konseptleri | [haftalik-en-iyi/2026-11-15.md](haftalik-en-iyi/2026-11-15.md) |
 | 2026-11-16 | Pazartesi | Diyetisyen ve Güzellik Merkezleri | [diyetisyen-guzellik/2026-11-16.md](diyetisyen-guzellik/2026-11-16.md) |
+| 2026-11-17 | Salı | Mimarlık ve İç Mimarlık Ofisleri | [mimarlik-ic-mimarlik/2026-11-17.md](mimarlik-ic-mimarlik/2026-11-17.md) |
 
 ## Klasörler
 - `diyetisyen-guzellik/` — Pazartesi
